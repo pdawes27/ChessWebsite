@@ -1,0 +1,24 @@
+d2-d4 e7-e6
+e2-e4 d7-d5
+Nb1-c3 c7-c5
+Ng1-f3 Nb8-c6
+e4xd5 e6xd5
+Bf1-e2 Ng8-f6
+O-O Bf8-e7
+Bc1-g5 O-O
+d4xc5 Bc8-e6
+Nf3-d4 Be7xc5
+Nd4xe6 f7xe6
+Be2-g4 Qd8-d6
+Bg4-h3 Ra8-e8
+Qd1-d2 Bc5-b4
+Bg5xf6 Rf8xf6
+Ra1-d1 Qd6-c5
+Qd2-e2 Bb4xc3
+b2xc3 Qc5xc3
+Rd1xd5 Nc6-d4
+Qe2-h5 Re8-f8
+Rd5-e5 Rf6-h6
+Qh5-g5 Rh6xh3
+Re5-c5 Qc3-g3
+Black

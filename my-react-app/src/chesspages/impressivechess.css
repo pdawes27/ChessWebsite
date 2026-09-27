@@ -1,0 +1,45 @@
+.gameList {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 80%;
+    height: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(190, 190, 190);
+    color: black;
+    border: 4px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.gameList ul {
+    /*list-style-type: none;*/
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.gameList button {
+    margin: auto;
+    padding: 10px;
+}
+
+.impressiveMoveList table {
+    height: 90%;
+}
+
+.navigateGame {
+    display: flex;
+    justify-self: center;
+    align-self: bottom;
+    justify-content: center;
+    align-items: bottom;
+    padding: 0px;
+    margin-top: auto;
+    background-color: rgb(65, 60, 50);
+}
+
+.navigateGame button {
+    margin: 5px;
+    padding: 5px 10px;
+}

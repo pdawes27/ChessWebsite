@@ -1,0 +1,18 @@
+e2-e4 e7-e5
+Ng1-f3 d7-d6
+d2-d4 Bc8-g4
+d4xe5 Bg4xf3
+Qd1xf3 d6xe5
+Bf1-c4 Ng8-f6
+Qf3-b3 Qd8-e7
+Nb1-c3 c7-c6
+Bc1-g5 b7-b5
+Nc3xb5 c6xb5
+Bc4xb5+ Nb8-d7
+O-O-O Ra8-d8
+Rd1xd7 Rd8xd7
+Rh1-d1 Qe7-e6
+Bb5xd7+ Nf6xd7
+Qb3-b8+ Nd7xb8
+Rd1-d8#
+White

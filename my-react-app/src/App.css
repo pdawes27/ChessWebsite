@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navigation {
+  background-color: rgb(65, 60, 50);
+  color:rgb(207, 181, 55);
+  width: 100%;
+  margin: 0px;
+  padding: 2px;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+nav a {
+  color: rgb(207, 181, 55);
+  text-decoration: none;
+  margin: 0px 5px;
+}
+
+nav a:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.heading {
+  background-color: rgb(207, 181, 55);
+  color: black;
+  margin: 0px;
+  padding: 10px;
+  z-index: 2;
+}
+
+.heading a {
+  color: black;
+  text-decoration: none;
+}
+
+.footer {
+  position: fixed;
+  height: 65px;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: rgb(65, 60, 50);
+  margin: 0px;
+  padding: 10px;
+  font-size: 20px;
+  justify-content: left;
+  align-items: center;
+  display: flex;
+  z-index: 2;
+}
+
+.footer a {
+  color: rgb(207, 181, 55);
+  text-decoration: none;
+}
+
+.um {
+  background-color: rgb(155, 155, 155);
+  margin: 0px;
+  padding: 20px;
+}
+
+.else {
+  background-color: rgb(100, 0, 100);
+  color: white;
+  margin: 0px;
+  padding: 10px;
+  height: calc(100vh - 125px);
+}
+
+@media (max-height: 578px) {
+  .footer {
+    max-height: 12vh;
+  }
+}
+
+@media (max-height: 115px) {
+  .footer {
+    position: static;
+  }
+}

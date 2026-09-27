@@ -1,0 +1,6 @@
+d2-d4 e7-e5
+d4xe5 f7-f6
+e5xf6 Bf8-c5
+f6xg7 Ng8-f6
+g7xh8=Q+
+White
